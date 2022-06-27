@@ -13,12 +13,11 @@ Estos tipos de visualizaciones se configuran a partir de la propiedad `display `
 
 Elementos como `<h1>` o `<p>` usan por defecto un  `display: block`
 
-**display: inline-flex;** 
+**display: inline-flex;**
 muestra el elemento sin ocupar todo el ancho de la linea. se ajusta a su tamaño.
 
 **display: inline-block;**
 sería como un termino intermedio entre inline y block. Puede usarse, ejemplo, para darle al usuario un area de clickeo más grande en un link.
-
 
 **display: block;**
 ocupa todo el ancho disponible de la linea.
